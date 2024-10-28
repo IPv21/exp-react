@@ -1,5 +1,6 @@
 {
-  "homepage": "https://github.com/IPv21/exp-react",
+
+  "homepage": "https://IPv21.github.io/exp-react",
   "name": "expense",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +21,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  
   "eslintConfig": {
     "extends": [
       "react-app",

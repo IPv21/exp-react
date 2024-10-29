@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/exp-react/static/css/main.2ab9c8ed.css",
+    "main.js": "/exp-react/static/js/main.b20ec338.js",
+    "index.html": "/exp-react/index.html",
+    "main.2ab9c8ed.css.map": "/exp-react/static/css/main.2ab9c8ed.css.map",
+    "main.b20ec338.js.map": "/exp-react/static/js/main.b20ec338.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ab9c8ed.css",
+    "static/js/main.b20ec338.js"
+  ]
+}
